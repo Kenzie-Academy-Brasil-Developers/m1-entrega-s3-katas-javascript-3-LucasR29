@@ -152,7 +152,7 @@ function kata13() {
     }
     return list
 }
-console.log(kata13())
+
 
 
 
